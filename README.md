@@ -10,4 +10,10 @@ Welcome to Himdeve development, where we are preparing the best tutorials to mak
 
 ### Goal
 
-In this first part of our Flutter series of tutorials, we will focus on creating a WebView for any website available on the internet and running (embedding) it in our own application.
+1. In this second part of our Flutter series of tutorials, we will add a controller for our WebView to be able to fully control it, such as getting the current url, going forward, backward, refreshing the page, clearing the cache and so on. In our case, we will display the current url address on the screen.
+
+2. In addition, we add topBar and floating action button to the application.
+
+3. We will learn the difference between the Stateless Widget and the Stateful Widget.
+
+4. And also basic info about the concept of Future, FutureBuilder, Completer and Async - Await mechanism in Flutter.
